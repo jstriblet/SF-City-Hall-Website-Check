@@ -1,0 +1,16 @@
+--2020-06-03 15:21:00--  http://sfcityhallevents.org/one-hour-weddings
+Resolving sfcityhallevents.org (sfcityhallevents.org)... 104.247.72.254
+Connecting to sfcityhallevents.org (sfcityhallevents.org)|104.247.72.254|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘one-hour-weddings-curr’
+
+     0K .......... .......... .......... .......... .......... 1.08M
+    50K .......... .......... .......... .......... .......... 2.24M
+   100K .......... .......... .......... .......... .......... 6.93M
+   150K .......... .......... .......... .......... .......... 21.2M
+   200K .......... .......... .......... .......... .......... 2.46M
+   250K .......... ....                                        2.55M=0.1s
+
+2020-06-03 15:21:01 (2.54 MB/s) - ‘one-hour-weddings-curr’ saved [270997]
+
