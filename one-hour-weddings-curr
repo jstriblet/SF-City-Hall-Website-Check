@@ -57,7 +57,7 @@
     
       <div class="content block-content">
       <div class="gavias_sliderlayer rev_slider_wrapper " style="height:800px" >
-   <div id="h0o1q" class="rev_slider">
+   <div id="kza8h" class="rev_slider">
       <ul>
          <li data-transition="fade" data-easein="Power0.easeIn" data-easeout="Power1.easeOut" data-slotamount="7" >
    	<img src="/sites/default/files/gva-sliderlayer-upload/Rotunda_home-9i48gi.jpg" alt="" data-bgrepeat="no-repeat" style="background-color:" data-bgfit="cover" data-bgposition="center center" /><div class="tp-caption text text-white overlay_header " data-x="80" data-y="235" data-start="1205.48" data-transform_idle="o:1;" data-transform_in="x:inherit;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:600;e:easeOutExpo;" style="z-index:5;font-family:frank_ruhl_libreregular; font-size:30px; font-weight:normal; line-height:35px;" >
@@ -71,7 +71,7 @@
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
   jQuery(document).ready(function($){
-    jQuery('#h0o1q').show().revolution({"delay":9000,"gridheight":800,"gridwidth":1200,"minHeight":0,"autoHeight":"off","sliderType":"standard","sliderLayout":"auto","fullScreenAutoWidth":"on","fullScreenAlignForce":"off","fullScreenOffsetContainer":"","fullScreenOffset":"0","hideCaptionAtLimit":0,"hideAllCaptionAtLimit":0,"hideSliderAtLimit":0,"disableProgressBar":"off","stopAtSlide":-1,"stopAfterLoops":-1,"shadow":"0","dottedOverlay":"none","startDelay":0,"lazyType":"smart","spinner":"spinner0","shuffle":"off","navigation":{"onHoverStop":"off","touch":{"touchenabled":"on"},"arrows":{"enable":"false","left":{"h_align":"left","v_align":"center","h_offset":20,"v_offset":0},"right":{"h_align":"right","v_align":"center","h_offset":20,"v_offset":0}},"bullets":{"enable":false,"v_align":"bottom","h_align":"center","v_offset":20,"space":10,"tmp":""}}});
+    jQuery('#kza8h').show().revolution({"delay":9000,"gridheight":800,"gridwidth":1200,"minHeight":0,"autoHeight":"off","sliderType":"standard","sliderLayout":"auto","fullScreenAutoWidth":"on","fullScreenAlignForce":"off","fullScreenOffsetContainer":"","fullScreenOffset":"0","hideCaptionAtLimit":0,"hideAllCaptionAtLimit":0,"hideSliderAtLimit":0,"disableProgressBar":"off","stopAtSlide":-1,"stopAfterLoops":-1,"shadow":"0","dottedOverlay":"none","startDelay":0,"lazyType":"smart","spinner":"spinner0","shuffle":"off","navigation":{"onHoverStop":"off","touch":{"touchenabled":"on"},"arrows":{"enable":"false","left":{"h_align":"left","v_align":"center","h_offset":20,"v_offset":0},"right":{"h_align":"right","v_align":"center","h_offset":20,"v_offset":0}},"bullets":{"enable":false,"v_align":"bottom","h_align":"center","v_offset":20,"space":10,"tmp":""}}});
   });
 //--><!]]>
 </script>
@@ -587,7 +587,7 @@ function googleTranslateElementInit() {
     
       <div class="content block-content">
       <div class="gavias_sliderlayer rev_slider_wrapper " style="height:300px" >
-   <div id="1vcwp" class="rev_slider">
+   <div id="yspew" class="rev_slider">
       <ul>
          <li data-transition="fade" data-easein="Power0.easeIn" data-easeout="Power1.easeOut" data-slotamount="7" >
    	<img src="/sites/default/files/gva-sliderlayer-upload/wedding-details-xuwbin.jpg" alt="" data-bgrepeat="no-repeat" style="background-color:" data-bgfit="cover" data-bgposition="center center" /></li>      </ul>
@@ -597,7 +597,7 @@ function googleTranslateElementInit() {
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
   jQuery(document).ready(function($){
-    jQuery('#1vcwp').show().revolution({"delay":9000,"gridheight":300,"gridwidth":1170,"minHeight":0,"autoHeight":"off","sliderType":"standard","sliderLayout":"auto","fullScreenAutoWidth":"on","fullScreenAlignForce":"off","fullScreenOffsetContainer":"","fullScreenOffset":"0","hideCaptionAtLimit":0,"hideAllCaptionAtLimit":0,"hideSliderAtLimit":0,"disableProgressBar":"off","stopAtSlide":-1,"stopAfterLoops":-1,"shadow":"0","dottedOverlay":"none","startDelay":0,"lazyType":"smart","spinner":"spinner0","shuffle":"off","navigation":{"onHoverStop":"off","touch":{"touchenabled":"on"},"arrows":{"enable":true,"left":{"h_align":"left","v_align":"center","h_offset":20,"v_offset":0},"right":{"h_align":"right","v_align":"center","h_offset":20,"v_offset":0}},"bullets":{"enable":false,"v_align":"bottom","h_align":"center","v_offset":20,"space":10,"tmp":""}}});
+    jQuery('#yspew').show().revolution({"delay":9000,"gridheight":300,"gridwidth":1170,"minHeight":0,"autoHeight":"off","sliderType":"standard","sliderLayout":"auto","fullScreenAutoWidth":"on","fullScreenAlignForce":"off","fullScreenOffsetContainer":"","fullScreenOffset":"0","hideCaptionAtLimit":0,"hideAllCaptionAtLimit":0,"hideSliderAtLimit":0,"disableProgressBar":"off","stopAtSlide":-1,"stopAfterLoops":-1,"shadow":"0","dottedOverlay":"none","startDelay":0,"lazyType":"smart","spinner":"spinner0","shuffle":"off","navigation":{"onHoverStop":"off","touch":{"touchenabled":"on"},"arrows":{"enable":true,"left":{"h_align":"left","v_align":"center","h_offset":20,"v_offset":0},"right":{"h_align":"right","v_align":"center","h_offset":20,"v_offset":0}},"bullets":{"enable":false,"v_align":"bottom","h_align":"center","v_offset":20,"space":10,"tmp":""}}});
   });
 //--><!]]>
 </script>

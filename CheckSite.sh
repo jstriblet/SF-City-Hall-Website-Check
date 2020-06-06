@@ -4,9 +4,6 @@ cd ~/Documents/CS/SFEventsChange
 
 wget -o Log-File -O one-hour-weddings-curr http://sfcityhallevents.org/one-hour-weddings
 
-#file1=`cat one-hour-weddings-curr`
-#file2=`cat one-hour-weddings-prev`
-
 p1=`head -n 724 one-hour-weddings-curr | tail -n 9`
 p2=`head -n 724 one-hour-weddings-prev | tail -n 9`
 
