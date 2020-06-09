@@ -7,11 +7,11 @@ wget -o Log-File -O one-hour-weddings-curr http://sfcityhallevents.org/one-hour-
 p1=`head -n 724 one-hour-weddings-curr | tail -n 9`
 p2=`head -n 724 one-hour-weddings-prev | tail -n 9`
 
-diff=`sdiff -s <(echo $p1) <(echo $p2)`
+diff=`sdiff -s <(echo $p2) <(echo $p1)`
 
 if [ "$p1" = "$p2" ]; then
 	echo "Paragraphs are the same."
 else
-	cat Notification-Email | /usr/sbin/sendmail -t
+	#cat Notification-Email | /usr/sbin/sendmail -t
 	echo "Paragraphs are not the same."
 fi
